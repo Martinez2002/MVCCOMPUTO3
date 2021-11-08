@@ -1,0 +1,51 @@
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.csproj.AssemblyReference.cache
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.AssemblyInfoInputs.cache
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.AssemblyInfo.cs
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\AppData\Local\Temp\Rar$DIa10964.17683\obj\Debug\net5.0\papas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\startbootstrap-sb-admin-2-gh-pages\package-lock.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\startbootstrap-sb-admin-2-gh-pages\package.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\startbootstrap-sb-admin-2-gh-pages\startbootstrap-sb-admin-2-gh-pages\vendor\fontawesome-free\package.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.exe
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.deps.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.runtimeconfig.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.dll
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\ref\papas.dll
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.pdb
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.Views.dll
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\bin\Debug\net5.0\papas.Views.pdb
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\staticwebassets\papas.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\staticwebassets\papas.StaticWebAssets.xml
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\scopedcss\bundle\papas.styles.css
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.TagHelpers.input.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.TagHelpers.output.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.RazorCoreGenerate.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Personal\Index.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Shared\_Library.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.Views.pdb
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.dll
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\ref\papas.dll
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.pdb
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.genruntimeconfig.cache
+C:\Users\DELL\Downloads\MVC - COMPUTO 3\MVC\obj\Debug\net5.0\papas.csproj.CopyComplete
